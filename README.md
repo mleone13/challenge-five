@@ -1,4 +1,4 @@
-# Challenge Five-Work Day Scheduler Starter Code
+# challenge-five
 
 ## Purpose
 A website that hosts a daily planner
